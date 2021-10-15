@@ -1,0 +1,8 @@
+[default]
+EXTENSIONS = ["app.routes:init_app"]
+
+[development]
+
+[production]
+
+[testing]
